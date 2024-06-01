@@ -8,6 +8,7 @@ public class SpringBootCrudMysqlApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootCrudMysqlApplication.class, args);
+		System.out.println("Application Running Success...@");
 	}
 
 }
